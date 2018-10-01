@@ -286,7 +286,7 @@ h2 {
         margin-right:27px;
       }
   
-      .conn {
+    .conn {
           width:auto;
           align-content: center;
           float:none;
@@ -477,18 +477,18 @@ h2 {
         position: static;
         padding-bottom:35px;
         margin-left:0px;
-        padding-right: 42px;
+        padding-right: 45px;
     }
 
 
     h1 {
-        width:100%;
+        width:95%;
         margin-bottom:0px;
         margin-left:0px;
         float:left;
         height:50%;
-        padding:20px;
-        padding-left:0px;
+        padding:20px 60px 20px 20px;
+        
     
     }
 
@@ -522,18 +522,20 @@ h2 {
 
 
     #img1 {
-      width:94%;
+      width:87%;
       float:none;
       height:auto;
       padding-bottom:15px;
-      margin-right:27px;
+      margin:auto;
     }
 
     .conn {
-        width:auto;
+        width:100%;
         align-content: center;
         float:none;
-        margin-right:27px;
+        margin:auto;
+        text-align: center;
+        align-content: center;
     }
 
     #box2 {
@@ -555,7 +557,7 @@ h2 {
     }
 
     .field2 {
-        width:98%;
+        width:99%;
     }
 
     .portimg {
@@ -577,12 +579,13 @@ h2 {
     .hangman {
         position: absolute;
         background-color: #4aaaa5;
-        width:97.5%;
+        width:100%;
         height:20px;
         font-size:20px;
         margin-top: 80px;
-        padding:4px;
         margin-left:0;
+        padding-right:0px;
+        padding-left: 0px;
     }
 
     .container2 {
@@ -596,11 +599,13 @@ h2 {
     .Trivia { 
         position: absolute;
         background-color: #4aaaa5;
-        width:97.5%;
+        width:100%;
         height:20px;
         font-size:20px;
         margin-top: 80px;
-        padding:4px;
+        padding-right:0px;
+        padding-left: 0px;
+      
         margin-left:0;
     }
 
@@ -617,12 +622,14 @@ h2 {
     .rps { 
         position: absolute;
         background-color: #4aaaa5;
-        width:97.5%;
+        width:100%;
         height:20px;
         font-size:17px;
         margin-top: 85px;
         padding:4px;
         margin-left:0;
+        padding-right:0px;
+        padding-left: 0px;
     }
 
     .container4 {
@@ -637,13 +644,16 @@ h2 {
     .rut {
         position: absolute;
         background-color: #4aaaa5;
-        width:97.5%;
+        width:100%;
         height:20px;
         font-size:20px;
         margin-top: 85px;
         padding:4px;
         margin-left:0;
+        padding-right:0px;
+        padding-left: 0px;
     }
+    
 
     .container5 {
         float:none;
@@ -657,12 +667,14 @@ h2 {
     .rbg {
         position: absolute;
         background-color: #4aaaa5;
-        width:97.5%;
+        width:100%;
         height:20px;
         font-size:17px;
         margin-top: 80px;
         padding:4px;
         margin-left:0;
+        padding-right:0px;
+        padding-left: 0px;
+        
     }
-    
-}
+}  
